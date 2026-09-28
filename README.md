@@ -1,4 +1,5 @@
 - I’m currently studying Embedded Systems @Dhbw Stuttgart
+- Interested mainly in Embedded Software Development but not limited to. 
 - Programming Languages:
   - C/C++
   - Ruby
